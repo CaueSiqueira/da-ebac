@@ -1,1 +1,1 @@
-proint("Hello, EBAC!")
+print("Hello, EBAC!")
